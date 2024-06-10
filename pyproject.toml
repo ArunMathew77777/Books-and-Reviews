@@ -4,8 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Exploring-the-World-of-Books"
-authors = [{name = "Nikki Rastogi", email = "nrastog1@mail.yu.edu"}
-,{name = "Arun Mathew", email = ""}, {name = "Aquib Hussain", email = ""}]
+authors = [{name = "Arun Mathew", email = ""}]
 version = "0.1.0"
 description = "Analyze the world of book and recommend which book is to read by performing EDA,solving Researched Questions"
 readme = "README.md"
@@ -21,9 +20,9 @@ dependencies = [
 
 
 [project.urls]
-homepage = "https://github.com/nikkirastogi"
-repository = "https://github.com/nikkirastogi/Exploring-the-World-of-Books/tree/main/src"
-documentation = "https://github.com/nikkirastogi/Exploring-the-World-of-Books/blob/main/README.md"
+homepage = "https://github.com/ArunMathew77777"
+repository = "https://github.com/ArunMathew77777/Books-and-Reviews/tree/main/src"
+documentation = "https://github.com/ArunMathew77777/Books-and-Reviews/blob/main/README.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]
